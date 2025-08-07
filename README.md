@@ -38,22 +38,6 @@ High-performance C and MPI implementations of Gaussian elimination with partial 
 - **MPI:** Nearly 6× reduction in runtime with 5 processes (block-cyclic)
 - Detailed charts and analysis are in each subfolder's PDF report.
 
-## Repository Structure
-
-```
-.
-├── shared_gepp/
-│   ├── gepp_block.c
-│   ├── gepp_omp.c
-│   └── report_shared.pdf
-├── distributed_gepp/
-│   ├── cbc.c
-│   ├── cbc_lu.c
-│   └── report_dist.pdf
-├── .gitignore
-└── README.md
-```
-
 ## Getting Started
 
 1. **Clone this repo**
