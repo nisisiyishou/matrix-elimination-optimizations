@@ -112,9 +112,3 @@ All code and analyses are authored by Yi Si as part of academic coursework. Feel
 **Yi Si**
 Email: [siyiwh98@gmail.com](mailto:siyiwh98@gmail.com)
 GitHub: [nisisiyishou](https://github.com/nisisiyishou)
-
-```
-
-This covers all sections—project overview, individual subprojects, requirements, usage, folder structure, and contact info. Just drop this into your `README.md` and push!
-::contentReference[oaicite:0]{index=0}
-```
