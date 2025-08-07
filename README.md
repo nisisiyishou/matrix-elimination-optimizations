@@ -16,7 +16,6 @@ High-performance C and MPI implementations of Gaussian elimination with partial 
   ./gepp_block <matrix_size>
   ./gepp_omp <matrix_size> <num_threads>
   ```
-- **Report:** `shared_gepp/report_shared.pdf`
 
 ### Distributed GEPP (MPI)
 - **Techniques:** 1D column block-cyclic partitioning, optional loop unrolling
@@ -28,7 +27,6 @@ High-performance C and MPI implementations of Gaussian elimination with partial 
   mpirun -np <P> ./cbc <matrix_size> <block_size>    # baseline
   mpirun -np <P> ./cbc_lu <matrix_size>              # unrolled (b=8)
   ```
-- **Report:** `distributed_gepp/report_dist.pdf`
 
 ## Requirements
 - **Compiler:** GCC (with `-fopenmp`)
