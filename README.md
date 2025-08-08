@@ -1,6 +1,6 @@
 # Matrix Elimination Optimizations
 
-High-performance C and MPI implementations of Gaussian elimination with partial pivoting, using cache blocking, loop unrolling, OpenMP, and MPI block-cyclic distribution. Includes performance reports and usage examples.
+High-performance C and MPI implementations of Gaussian elimination with partial pivoting, using cache blocking, loop unrolling, OpenMP, and MPI block-cyclic distribution.
 
 ---
 
